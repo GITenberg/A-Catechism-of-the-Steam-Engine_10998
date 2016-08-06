@@ -1,0 +1,25 @@
+_repo: A-Catechism-of-the-Steam-Engine_10998
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bourne, John, C.E.
+    alias: Bourne, John, civil engineer
+    gutenberg_agent_id: '3784'
+    url: http://www.gutenberg.org/2009/agents/3784
+description: ''
+gutenberg_bookshelf: Technology
+gutenberg_issued: '2004-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10998'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Steam-engines'
+- !lcc 'TJ'
+- !lcsh 'Steam engineering'
+- GITenberg
+title: A Catechism of the Steam Engine
+url: http://www.gutenberg.org/ebooks/10998
